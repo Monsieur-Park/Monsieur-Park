@@ -13,7 +13,7 @@
 </ul>
 </li>
 </ul>
-<p>For more information, please visit my <a href="https://www.yannmueller.de" target="_blank" rel="noopener noreferrer">academic website</a>.</p>
+<p>For more information, please visit my website</a>.</p>
 
 ---
 
